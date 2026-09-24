@@ -8,9 +8,9 @@
 
 <word pos="AUX" lemma="munu">munu</word>
 
-<word pos="NOUN" lemma="maÃ°ur">menn</word>
+<word pos="NOUN" lemma="mağur">menn</word>
 
-<word pos="VERB" lemma="verÃ°a">verÃ°a</word>
+<word pos="VERB" lemma="verğa">verğa</word>
 
 <word pos="ADP" lemma="til">til</word>
 
@@ -18,67 +18,67 @@
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
 <word pos="SCONJ" lemma="sem">sem</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="VERB" lemma="vilja">viljiÃ°</word>
-
-<word pos="PUNCT" lemma=".">.</word>
-
-<word pos="CCONJ" lemma="en">
-En</word>
-
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
-
-<word pos="VERB" lemma="handsala">handsaliÃ°</word>
-
-<word pos="NOUN" lemma="niÃ°urfall">niÃ°urfall</word>
-
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
-
-<word pos="NOUN" lemma="sÃ¶k">sÃ¶kum</word>
+<word pos="VERB" lemma="vilja">viljiğ</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="CCONJ" lemma="en">
 En</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="şú">şér</word>
+
+<word pos="VERB" lemma="handsala">handsaliğ</word>
+
+<word pos="NOUN" lemma="niğurfall">niğurfall</word>
+
+<word pos="ADP" lemma="ağ">ağ</word>
+
+<word pos="NOUN" lemma="sök">sökum</word>
+
+<word pos="PUNCT" lemma=".">.</word>
+
+<word pos="CCONJ" lemma="en">
+En</word>
+
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="NOUN" lemma="maÃ°ur">menn</word>
+<word pos="NOUN" lemma="mağur">menn</word>
 
 <word pos="ADP" lemma="af">af</word>
 
-<word pos="PRON" lemma="yÃ°ar">yÃ°ru</word>
+<word pos="PRON" lemma="yğar">yğru</word>
 
-<word pos="NOUN" lemma="liÃ°">liÃ°i</word>
+<word pos="NOUN" lemma="liğ">liği</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="PRON" lemma="hann">Ã¾Ã¡</word>
+<word pos="PRON" lemma="hann">şá</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
-<word pos="VERB" lemma="sÃ½na">sÃ½nist</word>
+<word pos="VERB" lemma="sına">sınist</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
 <word pos="DET" lemma="einn">einn</word>
 
-<word pos="CCONJ" lemma="eÃ°a">eÃ°a</word>
+<word pos="CCONJ" lemma="eğa">eğa</word>
 
 <word pos="NUM" lemma="tveir">tvo</word>
 
-<word pos="CCONJ" lemma="eÃ°a">eÃ°a</word>
+<word pos="CCONJ" lemma="eğa">eğa</word>
 
 <word pos="DET" lemma="margur">fleiri</word>
 
@@ -95,11 +95,11 @@ Hermundur</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="_" lemma="_">5-LÃ¡ttu</word>
+<word pos="_" lemma="_">5-Láttu</word>
 
-<word pos="VERB" lemma="lÃ¡ta">LÃ¡tt</word>
+<word pos="VERB" lemma="láta">Látt</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="ADV" lemma="svo">svo</word>
 
@@ -109,8 +109,8 @@ Hermundur</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="PROPN" lemma="Ã¾Ã³rarinn">
-ÃÃ³rarinn</word>
+<word pos="PROPN" lemma="şórarinn">
+Şórarinn</word>
 
 <word pos="ADJ" lemma="spakur">spaki</word>
 
@@ -120,25 +120,25 @@ Hermundur</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="VERB" lemma="jÃ¡ta">JÃ¡tum</word>
+<word pos="VERB" lemma="játa">Játum</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
 <word pos="DET" lemma="einn">einu</word>
 
-<word pos="ADP" lemma="Ã­">Ã­</word>
+<word pos="ADP" lemma="í">í</word>
 
 <word pos="NOUN" lemma="dagur">dag</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">vÃ©r</word>
+<word pos="PRON" lemma="ég">vér</word>
 
-<word pos="VERB" lemma="iÃ°rast">iÃ°rumst</word>
+<word pos="VERB" lemma="iğrast">iğrumst</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
 <word pos="NOUN" lemma="morgunn">morgun</word>
 
@@ -155,13 +155,13 @@ Hermundur</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="DET" lemma="Ã¾essi">Ãessu</word>
+<word pos="DET" lemma="şessi">Şessu</word>
 
 <word pos="AUX" lemma="munu">munum</word>
 
-<word pos="PRON" lemma="Ã©g">vÃ©r</word>
+<word pos="PRON" lemma="ég">vér</word>
 
-<word pos="VERB" lemma="jÃ¡ta">jÃ¡ta</word>
+<word pos="VERB" lemma="játa">játa</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -170,9 +170,9 @@ Hermundur</word>
 <word pos="PUNCT" lemma=""">
 "</word>
 
-<word pos="VERB" lemma="ganga">GÃ¶ngum</word>
+<word pos="VERB" lemma="ganga">Göngum</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
 <word pos="ADP" lemma="til">til</word>
 
@@ -184,7 +184,7 @@ Hermundur</word>
 
 <word pos="VERB" lemma="segja">segir</word>
 
-<word pos="PROPN" lemma="Ã³feigur">Ã“feigur</word>
+<word pos="PROPN" lemma="ófeigur">Ófeigur</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -198,27 +198,27 @@ Hermundur</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="handsala">handsÃ¶luÃ°u</word>
+<word pos="VERB" lemma="handsala">handsöluğu</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
-<word pos="NOUN" lemma="niÃ°urfall">niÃ°urfall</word>
+<word pos="NOUN" lemma="niğurfall">niğurfall</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
-<word pos="NOUN" lemma="sÃ¶k">sÃ¶kum</word>
+<word pos="NOUN" lemma="sök">sökum</word>
 
 <word pos="CCONJ" lemma="en">en</word>
 
 <word pos="PRON" lemma="hann">hann</word>
 
-<word pos="NOUN" lemma="fÃ©sÃ¡tt">fÃ©sÃ¡tt</word>
+<word pos="NOUN" lemma="fésátt">fésátt</word>
 
-<word pos="PRON" lemma="slÃ­kur">slÃ­ka</word>
+<word pos="PRON" lemma="slíkur">slíka</word>
 
 <word pos="SCONJ" lemma="sem">sem</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
 <word pos="AUX" lemma="vilja">vilja</word>
 
@@ -230,7 +230,7 @@ Hermundur</word>
 
 <word pos="PRON" lemma="hann">hann</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ¶ri</word>
+<word pos="VERB" lemma="kjósa">kjöri</word>
 
 <word pos="ADP" lemma="til">til</word>
 
@@ -239,52 +239,52 @@ Hermundur</word>
 <word pos="CCONJ" lemma="og">
 Og</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
-<word pos="PROPN" lemma="Ã³feigur">Ã“feigur</word>
+<word pos="PROPN" lemma="ófeigur">Ófeigur</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="VERB" lemma="ganga">GÃ¶ngum</word>
+<word pos="VERB" lemma="ganga">Göngum</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="NOUN" lemma="vÃ¶llur">vÃ¶llu</word>
+<word pos="NOUN" lemma="völlur">völlu</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="ADV" lemma="Ã¾ar">Ã¾ar</word>
+<word pos="ADV" lemma="şar">şar</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="PRON" lemma="hann">Ã¾Ã¡</word>
+<word pos="PRON" lemma="hann">şá</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
-<word pos="VERB" lemma="sÃ½na">sÃ½nist</word>
+<word pos="VERB" lemma="sına">sınist</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
 <word pos="PRON" lemma="hann">
-Ãeir</word>
+Şeir</word>
 
 <word pos="VERB" lemma="gera">gera</word>
 
@@ -292,29 +292,29 @@ Og</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="VERB" lemma="drÃ­fa">
-DrÃ­fur</word>
+<word pos="VERB" lemma="drífa">
+Drífur</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="ADV" lemma="Ã¾angaÃ°">Ã¾angaÃ°</word>
+<word pos="ADV" lemma="şangağ">şangağ</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="NOUN" lemma="vÃ¶llur">vÃ¶lluna</word>
+<word pos="NOUN" lemma="völlur">völluna</word>
 
 <word pos="DET" lemma="mikill">mikill</word>
 
-<word pos="NOUN" lemma="mannfjÃ¶ldi">mannfjÃ¶ldi</word>
+<word pos="NOUN" lemma="mannfjöldi">mannfjöldi</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PRON" lemma="hann">
-Ãeir</word>
+Şeir</word>
 
-<word pos="VERB" lemma="fara">fÃ³ru</word>
+<word pos="VERB" lemma="fara">fóru</word>
 
-<word pos="DET" lemma="bÃ¡Ã°ir">bÃ¡Ã°ir</word>
+<word pos="DET" lemma="báğir">báğir</word>
 
 <word pos="ADV" lemma="saman">saman</word>
 
@@ -324,11 +324,11 @@ DrÃ­fur</word>
 
 <word pos="PROPN" lemma="egill">Egill</word>
 
-<word pos="ADP" lemma="meÃ°">meÃ°</word>
+<word pos="ADP" lemma="meğ">meğ</word>
 
 <word pos="NOUN" lemma="flokkur">flokka</word>
 
-<word pos="PRON" lemma="sinn">sÃ­na</word>
+<word pos="PRON" lemma="sinn">sína</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
@@ -336,18 +336,18 @@ DrÃ­fur</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="NOUN" lemma="vÃ¶llur">vÃ¶llu</word>
+<word pos="NOUN" lemma="völlur">völlu</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾Ã¡">
-ÃÃ¡</word>
+<word pos="ADV" lemma="şá">
+Şá</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
-<word pos="PROPN" lemma="Ã³feigur">Ã“feigur</word>
+<word pos="PROPN" lemma="ófeigur">Ófeigur</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
@@ -355,19 +355,19 @@ DrÃ­fur</word>
 
 <word pos="VERB" lemma="setja">Setjist</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
-<word pos="ADP" lemma="niÃ°ur">niÃ°ur</word>
-
-<word pos="PUNCT" lemma=",">,</word>
-
-<word pos="NOUN" lemma="bandamaÃ°ur">bandamenn</word>
+<word pos="ADP" lemma="niğur">niğur</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="ADP" lemma="Ã­">Ã­</word>
+<word pos="NOUN" lemma="bandamağur">bandamenn</word>
+
+<word pos="PUNCT" lemma=",">,</word>
+
+<word pos="ADP" lemma="í">í</word>
 
 <word pos="NOUN" lemma="hringur">hring</word>
 
@@ -375,38 +375,38 @@ DrÃ­fur</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="VERB" lemma="ganga">ganga</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">yÃ°ur</word>
+<word pos="PRON" lemma="şú">yğur</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="PRON" lemma="hann">Ã¾Ã¡</word>
+<word pos="PRON" lemma="hann">şá</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="PRON" lemma="minn">mÃ­ns</word>
+<word pos="PRON" lemma="minn">míns</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡ls</word>
+<word pos="NOUN" lemma="mál">máls</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
-<word pos="VERB" lemma="sÃ½na">sÃ½nist</word>
+<word pos="VERB" lemma="sına">sınist</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
 <word pos="CCONJ" lemma="og">
 og</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
 <word pos="VERB" lemma="gera">gera</word>
 
@@ -419,7 +419,7 @@ Hann</word>
 
 <word pos="VERB" lemma="ganga">gengur</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
 <word pos="PROPN" lemma="styrmir">Styrmi</word>
 
@@ -429,107 +429,107 @@ Hann</word>
 
 <word pos="ADV" lemma="aftur">aftur</word>
 
-<word pos="NOUN" lemma="kÃ¡puhÃ¶ttur">kÃ¡puhettinum</word>
+<word pos="NOUN" lemma="kápuhöttur">kápuhettinum</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="NOUN" lemma="herÃ°ar">herÃ°arnar</word>
-
-<word pos="CCONJ" lemma="og">og</word>
-
-<word pos="VERB" lemma="standa">stÃ³Ã°</word>
-
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
-
-<word pos="NOUN" lemma="knÃ©">knjÃ¡m</word>
+<word pos="NOUN" lemma="herğar">herğarnar</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="standa">stóğ</word>
+
+<word pos="ADP" lemma="á">á</word>
+
+<word pos="NOUN" lemma="kné">knjám</word>
+
+<word pos="CCONJ" lemma="og">og</word>
+
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="DET" lemma="allur">Ã–llum</word>
+<word pos="DET" lemma="allur">Öllum</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="ADJ" lemma="lÃ­klegur">lÃ­klegt</word>
+<word pos="ADJ" lemma="líklegur">líklegt</word>
 
-<word pos="VERB" lemma="Ã¾ykja">Ã¾ykja</word>
+<word pos="VERB" lemma="şykja">şykja</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="AUX" lemma="munu">muni</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="PRON" lemma="minn">mÃ­ns</word>
+<word pos="PRON" lemma="minn">míns</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡ls</word>
+<word pos="NOUN" lemma="mál">máls</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="PRON" lemma="Ã¾inn">Ã¾inn</word>
+<word pos="PRON" lemma="şinn">şinn</word>
 
-<word pos="NOUN" lemma="Ã¾ingmaÃ°ur">Ã¾ingmaÃ°ur</word>
+<word pos="NOUN" lemma="şingmağur">şingmağur</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="gefa">gefiÃ°</word>
+<word pos="VERB" lemma="gefa">gefiğ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="ADJ" lemma="gÃ³Ã°ur">gÃ³Ã°ar</word>
+<word pos="ADJ" lemma="góğur">góğar</word>
 
-<word pos="NOUN" lemma="gjÃ¶f">gjafir</word>
+<word pos="NOUN" lemma="gjöf">gjafir</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="AUX" lemma="vera">vÃ¦ri</word>
+<word pos="AUX" lemma="vera">væri</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="ADJ" lemma="lÃ­klegur">lÃ­klegt</word>
+<word pos="ADJ" lemma="líklegur">líklegt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="DET" lemma="sÃ¡">Ã¾vÃ­</word>
+<word pos="DET" lemma="sá">şví</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡li</word>
+<word pos="NOUN" lemma="mál">máli</word>
 
 <word pos="AUX" lemma="munu">mundi</word>
 
-<word pos="VERB" lemma="Ã¾ykja">Ã¾ykja</word>
+<word pos="VERB" lemma="şykja">şykja</word>
 
 <word pos="ADV" lemma="vel">vel</word>
 
-<word pos="VERB" lemma="koma">komiÃ°</word>
+<word pos="VERB" lemma="koma">komiğ</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
-<word pos="VERB" lemma="gera">gerÃ°ir</word>
+<word pos="VERB" lemma="gera">gerğir</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -540,70 +540,70 @@ En</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
-<word pos="ADV" lemma="Ã¾Ã³">Ã¾Ã³</word>
+<word pos="ADV" lemma="şó">şó</word>
 
-<word pos="ADJ" lemma="jafnÃ¦stur">jafnÃ¦stur</word>
+<word pos="ADJ" lemma="jafnæstur">jafnæstur</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
-<word pos="VERB" lemma="fara">fariÃ°</word>
+<word pos="VERB" lemma="fara">fariğ</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="DET" lemma="allur">Ã¶llum</word>
+<word pos="DET" lemma="allur">öllum</word>
 
-<word pos="NOUN" lemma="upphaf">upphÃ¶fum</word>
+<word pos="NOUN" lemma="upphaf">upphöfum</word>
 
-<word pos="VERB" lemma="valda">valdiÃ°</word>
+<word pos="VERB" lemma="valda">valdiğ</word>
 
 <word pos="ADP" lemma="um">um</word>
 
-<word pos="DET" lemma="Ã¾essi">Ã¾etta</word>
+<word pos="DET" lemma="şessi">şetta</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡l</word>
+<word pos="NOUN" lemma="mál">mál</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="VERB" lemma="falla">fÃ©lli</word>
+<word pos="VERB" lemma="falla">félli</word>
 
-<word pos="ADJ" lemma="Ã¾ungur">Ã¾yngra</word>
+<word pos="ADJ" lemma="şungur">şyngra</word>
 
 <word pos="SCONJ" lemma="en">en</word>
 
-<word pos="ADJ" lemma="lÃ©ttara">lÃ©ttara</word>
+<word pos="ADJ" lemma="léttara">léttara</word>
 
 <word pos="PROPN" lemma="oddur">Oddi</word>
 
 <word pos="NOUN" lemma="sonur">syni</word>
 
-<word pos="PRON" lemma="minn">mÃ­num</word>
+<word pos="PRON" lemma="minn">mínum</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
+<word pos="VERB" lemma="kjósa">kıs</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾ar">
-Ãar</word>
+<word pos="ADV" lemma="şar">
+Şar</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="PROPN" lemma="Ã¾Ã³rarinn">ÃÃ³rarinn</word>
+<word pos="PROPN" lemma="şórarinn">Şórarinn</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -613,29 +613,29 @@ En</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="ADV" lemma="Ã¾ar">Ã¾ar</word>
+<word pos="ADV" lemma="şar">şar</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="AUX" lemma="vera">sÃ©</word>
+<word pos="AUX" lemma="vera">sé</word>
 
-<word pos="ADJ" lemma="vitfÃ¡r">vitfÃ¡tt</word>
+<word pos="ADJ" lemma="vitfár">vitfátt</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
 <word pos="VERB" lemma="gera">gera</word>
 
 <word pos="ADP" lemma="um">um</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡liÃ°</word>
+<word pos="NOUN" lemma="mál">máliğ</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -646,56 +646,56 @@ En</word>
 
 <word pos="NOUN" lemma="vit">vit</word>
 
-<word pos="PRON" lemma="Ã¾inn">Ã¾itt</word>
+<word pos="PRON" lemma="şinn">şitt</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾ess</word>
+<word pos="PRON" lemma="şağ">şess</word>
 
 <word pos="VERB" lemma="leggja">lagt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="DET" lemma="Ã¾essi">Ã¾etta</word>
+<word pos="DET" lemma="şessi">şetta</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡l</word>
+<word pos="NOUN" lemma="mál">mál</word>
 
-<word pos="VERB" lemma="falla">fÃ©lli</word>
+<word pos="VERB" lemma="falla">félli</word>
 
-<word pos="ADJ" lemma="Ã¾ungur">Ã¾yngra</word>
+<word pos="ADJ" lemma="şungur">şyngra</word>
 
 <word pos="SCONJ" lemma="en">en</word>
 
-<word pos="ADV" lemma="Ã¡Ã°ur">Ã¡Ã°ur</word>
+<word pos="ADV" lemma="áğur">áğur</word>
 
 <word pos="PROPN" lemma="oddur">Oddi</word>
 
 <word pos="NOUN" lemma="sonur">syni</word>
 
-<word pos="PRON" lemma="minn">mÃ­num</word>
+<word pos="PRON" lemma="minn">mínum</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
+<word pos="VERB" lemma="kjósa">kıs</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾Ã¡">
-ÃÃ¡</word>
+<word pos="ADV" lemma="şá">
+Şá</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -703,7 +703,7 @@ En</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="NOUN" lemma="hÃ¶fÃ°ingi">hÃ¶fÃ°ingi</word>
+<word pos="NOUN" lemma="höfğingi">höfğingi</word>
 
 <word pos="DET" lemma="mikill">mikill</word>
 
@@ -716,15 +716,15 @@ Hann</word>
 
 <word pos="VERB" lemma="yppa">yppist</word>
 
-<word pos="ADP" lemma="viÃ°">viÃ°</word>
+<word pos="ADP" lemma="viğ">viğ</word>
 
-<word pos="ADV" lemma="mjÃ¶g">mjÃ¶g</word>
+<word pos="ADV" lemma="mjög">mjög</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="Ã¦tla">Ã¦tlaÃ°i</word>
+<word pos="VERB" lemma="ætla">ætlaği</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="PRON" lemma="hann">hann</word>
 
@@ -734,20 +734,20 @@ Hann</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PUNCT" lemma=""">
 "</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">ÃaÃ°</word>
+<word pos="PRON" lemma="şağ">Şağ</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="ADJ" lemma="vÃ­st">vÃ­st</word>
+<word pos="ADJ" lemma="víst">víst</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -755,15 +755,15 @@ Hann</word>
 
 <word pos="VERB" lemma="segja">segir</word>
 
-<word pos="PROPN" lemma="Ã³feigur">Ã“feigur</word>
+<word pos="PROPN" lemma="ófeigur">Ófeigur</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
@@ -771,19 +771,19 @@ Hann</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="VERB" lemma="halda">haldiÃ°</word>
+<word pos="VERB" lemma="halda">haldiğ</word>
 
 <word pos="ADV" lemma="nema">nema</word>
 
-<word pos="NOUN" lemma="fÃ©girni">fÃ©girni</word>
+<word pos="NOUN" lemma="fégirni">fégirni</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="NOUN" lemma="ranglÃ¦ti">ranglÃ¦ti</word>
+<word pos="NOUN" lemma="ranglæti">ranglæti</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="NOUN" lemma="Ã³jafnaÃ°ur">Ã³jafnaÃ°ur</word>
+<word pos="NOUN" lemma="ójafnağur">ójafnağur</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -794,34 +794,34 @@ Engi</word>
 
 <word pos="ADV" lemma="og">og</word>
 
-<word pos="ADJ" lemma="jafnÃ³Ã°ur">jafnÃ³Ã°ur</word>
+<word pos="ADJ" lemma="jafnóğur">jafnóğur</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
-<word pos="AUX" lemma="vera">veriÃ°</word>
+<word pos="AUX" lemma="vera">veriğ</word>
 
 <word pos="SCONJ" lemma="sem">sem</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="VERB" lemma="skorta">
 Skortir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="ADV" lemma="og">og</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
-<word pos="NOUN" lemma="fÃ©">fÃ©iÃ°</word>
+<word pos="NOUN" lemma="fé">féiğ</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="VERB" lemma="draga">dregist</word>
 
@@ -829,52 +829,52 @@ Skortir</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="NOUN" lemma="Ã¡girni">Ã¡girni</word>
+<word pos="NOUN" lemma="ágirni">ágirni</word>
 
-<word pos="NOUN" lemma="sÃ¶k">sakir</word>
-
-<word pos="PUNCT" lemma=".">.</word>
-
-<word pos="ADV" lemma="nÃº">
-NÃº</word>
-
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
-
-<word pos="PRON" lemma="Ã©g">eg</word>
-
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
-
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="NOUN" lemma="sök">sakir</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾ar">
-Ãar</word>
+<word pos="ADV" lemma="nú">
+Nú</word>
+
+<word pos="VERB" lemma="kjósa">kıs</word>
+
+<word pos="PRON" lemma="ég">eg</word>
+
+<word pos="PRON" lemma="şú">şig</word>
+
+<word pos="ADP" lemma="frá">frá</word>
+
+<word pos="PUNCT" lemma=".">.</word>
+
+<word pos="ADV" lemma="şar">
+Şar</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="PROPN" lemma="jÃ¡rnskeggi">JÃ¡rnskeggi</word>
+<word pos="PROPN" lemma="járnskeggi">Járnskeggi</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">
-ÃaÃ°</word>
+<word pos="PRON" lemma="şağ">
+Şağ</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
 <word pos="VERB" lemma="segja">sagt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
-<word pos="VERB" lemma="lÃ¡ta">lÃ©tir</word>
+<word pos="VERB" lemma="láta">létir</word>
 
 <word pos="VERB" lemma="bera">bera</word>
 
@@ -882,13 +882,13 @@ NÃº</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="ADV" lemma="norÃ°ur">norÃ°ur</word>
+<word pos="ADV" lemma="norğur">norğur</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="PROPN" lemma="vÃ¶Ã°laÃ¾ing">VÃ¶Ã°laÃ¾ingi</word>
+<word pos="PROPN" lemma="vöğlaşing">Vöğlaşingi</word>
 
 <word pos="SCONJ" lemma="sem">sem</word>
 
@@ -898,12 +898,12 @@ NÃº</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="nÃº">
-NÃº</word>
+<word pos="ADV" lemma="nú">
+Nú</word>
 
 <word pos="VERB" lemma="skilja">skil</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
@@ -913,70 +913,70 @@ NÃº</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="NOUN" lemma="metnaÃ°ur">metnaÃ°i</word>
+<word pos="NOUN" lemma="metnağur">metnaği</word>
 
-<word pos="PRON" lemma="Ã¾inn">Ã¾Ã­num</word>
+<word pos="PRON" lemma="şinn">şínum</word>
 
 <word pos="SCONJ" lemma="ef">ef</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
 <word pos="ADP" lemma="af">af</word>
 
-<word pos="DET" lemma="Ã¾essi">Ã¾essu</word>
+<word pos="DET" lemma="şessi">şessu</word>
 
-<word pos="NOUN" lemma="virÃ°ing">virÃ°ing</word>
+<word pos="NOUN" lemma="virğing">virğing</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
+<word pos="VERB" lemma="kjósa">kıs</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="verÃ°a">verÃ°</word>
+<word pos="VERB" lemma="verğa">verğ</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="PRON" lemma="Ã¾inn">Ã¾Ã­num</word>
+<word pos="PRON" lemma="şinn">şínum</word>
 
 <word pos="NOUN" lemma="hlutur">hlut</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
-<word pos="VERB" lemma="sjÃ¡">sjÃ¡</word>
+<word pos="VERB" lemma="sjá">sjá</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
 <word pos="VERB" lemma="geysast">geysist</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
-<word pos="ADP" lemma="Ãºr">Ãºr</word>
+<word pos="ADP" lemma="úr">úr</word>
 
-<word pos="NOUN" lemma="virÃ°ing">virÃ°ingunni</word>
+<word pos="NOUN" lemma="virğing">virğingunni</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾ar">
-Ãar</word>
+<word pos="ADV" lemma="şar">
+Şar</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -991,19 +991,19 @@ Hvort</word>
 
 <word pos="ADJ" lemma="sannur">satt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="PROPN" lemma="haraldur">Haraldur</word>
 
 <word pos="NOUN" lemma="konungur">konungur</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="AUX" lemma="vera">vÃ¦rir</word>
+<word pos="AUX" lemma="vera">værir</word>
 
 <word pos="ADV" lemma="vel">best</word>
 
@@ -1013,9 +1013,9 @@ Hvort</word>
 
 <word pos="VERB" lemma="falla">fallinn</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="PROPN" lemma="Ã­sland">Ãslandi</word>
+<word pos="PROPN" lemma="ísland">Íslandi</word>
 
 <word pos="PUNCT" lemma="?">?</word>
 
@@ -1034,30 +1034,30 @@ Hann</word>
 
 <word pos="VERB" lemma="vita">veit</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="ADV" lemma="margur">
 Mart</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PROPN" lemma="haraldur">Haraldur</word>
 
 <word pos="NOUN" lemma="konungur">konungur</word>
 
-<word pos="DET" lemma="sÃ¡">Ã¾aÃ°</word>
+<word pos="DET" lemma="sá">şağ</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ­n</word>
+<word pos="PRON" lemma="ég">mín</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="VERB" lemma="vita">veit</word>
 
@@ -1067,7 +1067,7 @@ Mart</word>
 
 <word pos="NOUN" lemma="alhugi">alhugi</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
 <word pos="VERB" lemma="fylgja">fylgdi</word>
 
@@ -1075,8 +1075,8 @@ Mart</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="PROPN" lemma="Ã³feigur">
-Ã“feigur</word>
+<word pos="PROPN" lemma="ófeigur">
+Ófeigur</word>
 
 <word pos="VERB" lemma="segja">segir</word>
 
@@ -1084,31 +1084,31 @@ Mart</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="ADP" lemma="aÃ°">AÃ°</word>
+<word pos="ADP" lemma="ağ">Ağ</word>
 
-<word pos="ADV" lemma="sÃ­Ã°ur">sÃ­Ã°ur</word>
+<word pos="ADV" lemma="síğur">síğur</word>
 
 <word pos="AUX" lemma="munu">mundi</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
-<word pos="VERB" lemma="samÃ¾ykkja">samÃ¾ykkjast</word>
+<word pos="VERB" lemma="samşykkja">samşykkjast</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
-<word pos="AUX" lemma="vera">vÃ¦rir</word>
+<word pos="AUX" lemma="vera">værir</word>
 
 <word pos="NOUN" lemma="konungur">konungur</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="PROPN" lemma="Ã­sland">Ãslandi</word>
+<word pos="PROPN" lemma="ísland">Íslandi</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
@@ -1116,34 +1116,34 @@ Mart</word>
 
 <word pos="AUX" lemma="skulu">skalt</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="NOUN" lemma="konungur">konungur</word>
 
 <word pos="ADP" lemma="yfir">yfir</word>
 
-<word pos="DET" lemma="Ã¾essi">Ã¾essu</word>
+<word pos="DET" lemma="şessi">şessu</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡li</word>
+<word pos="NOUN" lemma="mál">máli</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
+<word pos="VERB" lemma="kjósa">kıs</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾ar">
-Ãar</word>
+<word pos="ADV" lemma="şar">
+Şar</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
@@ -1151,35 +1151,35 @@ Mart</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">
-ÃÃº</word>
+<word pos="PRON" lemma="şú">
+Şú</word>
 
 <word pos="AUX" lemma="vera">ert</word>
 
-<word pos="VERB" lemma="kalla">kallaÃ°ur</word>
+<word pos="VERB" lemma="kalla">kallağur</word>
 
-<word pos="ADJ" lemma="gÃ³Ã°ur">gÃ³Ã°ur</word>
+<word pos="ADJ" lemma="góğur">góğur</word>
 
-<word pos="NOUN" lemma="hÃ¶fÃ°ingi">hÃ¶fÃ°ingi</word>
+<word pos="NOUN" lemma="höfğingi">höfğingi</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="ADJ" lemma="rÃ©ttlÃ¡tur">rÃ©ttlÃ¡tur</word>
+<word pos="ADJ" lemma="réttlátur">réttlátur</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾Ã³">
-ÃÃ³</word>
+<word pos="ADV" lemma="şó">
+Şó</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ã©r</word>
+<word pos="PRON" lemma="şú">şér</word>
 
-<word pos="DET" lemma="Ã¾essi">Ã¾etta</word>
+<word pos="DET" lemma="şessi">şetta</word>
 
-<word pos="ADV" lemma="Ã³drengilega">Ã³drengilega</word>
+<word pos="ADV" lemma="ódrengilega">ódrengilega</word>
 
-<word pos="VERB" lemma="verÃ°a">orÃ°iÃ°</word>
+<word pos="VERB" lemma="verğa">orğiğ</word>
 
 <word pos="CCONJ" lemma="en">en</word>
 
@@ -1187,86 +1187,86 @@ Mart</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
-<word pos="ADP" lemma="viÃ°">viÃ°</word>
+<word pos="ADP" lemma="viğ">viğ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="AUX" lemma="vera">ert</word>
 
-<word pos="ADJ" lemma="fÃ©lÃ­till">fÃ©lÃ­till</word>
+<word pos="ADJ" lemma="félítill">félítill</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="DET" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="DET" lemma="şağ">şağ</word>
 
-<word pos="PRON" lemma="annar">annaÃ°</word>
+<word pos="PRON" lemma="annar">annağ</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="PROPN" lemma="skegg-broddi">Skegg-Broddi</word>
 
 <word pos="NOUN" lemma="vinur">vinur</word>
 
-<word pos="PRON" lemma="Ã¾inn">Ã¾inn</word>
+<word pos="PRON" lemma="şinn">şinn</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
-<word pos="VERB" lemma="koma">komiÃ°</word>
+<word pos="VERB" lemma="koma">komiğ</word>
 
-<word pos="ADP" lemma="Ã­">Ã­</word>
+<word pos="ADP" lemma="í">í</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡liÃ°</word>
+<word pos="NOUN" lemma="mál">máliğ</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
-<word pos="SCONJ" lemma="Ã¾Ã³tt">Ã¾Ã³tt</word>
+<word pos="SCONJ" lemma="şótt">şótt</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
-<word pos="AUX" lemma="vera">sÃ©</word>
+<word pos="AUX" lemma="vera">sé</word>
 
-<word pos="DET" lemma="lÃ­till">lÃ­tiÃ°</word>
+<word pos="DET" lemma="lítill">lítiğ</word>
 
 <word pos="ADP" lemma="um">um</word>
 
 <word pos="DET" lemma="allur">allra</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡l</word>
+<word pos="NOUN" lemma="mál">mál</word>
 
-<word pos="ADV" lemma="Ã¾Ã¡">Ã¾Ã¡</word>
+<word pos="ADV" lemma="şá">şá</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
-<word pos="VERB" lemma="verÃ°a">verÃ°a</word>
+<word pos="VERB" lemma="verğa">verğa</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
-<word pos="VERB" lemma="snÃºa">snÃºa</word>
+<word pos="VERB" lemma="snúa">snúa</word>
 
 <word pos="DET" lemma="nokkur">nokkur</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="nÃº">
-NÃº</word>
+<word pos="ADV" lemma="nú">
+Nú</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kÃ½s</word>
+<word pos="VERB" lemma="kjósa">kıs</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="ADV" lemma="ekki">ekki</word>
 
@@ -1276,43 +1276,43 @@ NÃº</word>
 
 <word pos="ADV" lemma="ekki">ekki</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="Ã¾ar">
-Ãar</word>
+<word pos="ADV" lemma="şar">
+Şar</word>
 
 <word pos="VERB" lemma="sitja">situr</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="PUNCT" lemma=",">,</word>
 
-<word pos="PROPN" lemma="Ã¾orgeir">Ãorgeir</word>
+<word pos="PROPN" lemma="şorgeir">Şorgeir</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="ADJ" lemma="skammur">
 Skamma</word>
 
-<word pos="NOUN" lemma="dvÃ¶l">dvÃ¶l</word>
+<word pos="NOUN" lemma="dvöl">dvöl</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="ADV" lemma="hÃ©r">hÃ©r</word>
+<word pos="ADV" lemma="hér">hér</word>
 
 <word pos="VERB" lemma="eiga">eiga</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
@@ -1320,15 +1320,15 @@ Skamma</word>
 
 <word pos="ADP" lemma="um">um</word>
 
-<word pos="DET" lemma="sÃ¡">Ã¾aÃ°</word>
+<word pos="DET" lemma="sá">şağ</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡l</word>
+<word pos="NOUN" lemma="mál">mál</word>
 
 <word pos="VERB" lemma="gera">gert</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="DET" lemma="nokkur">nokkuÃ°</word>
+<word pos="DET" lemma="nokkur">nokkuğ</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
@@ -1336,11 +1336,11 @@ Skamma</word>
 
 <word pos="ADP" lemma="af">af</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="AUX" lemma="hafa">hefir</word>
 
@@ -1354,8 +1354,8 @@ Skamma</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="ADV" lemma="nÃº">
-NÃº</word>
+<word pos="ADV" lemma="nú">
+Nú</word>
 
 <word pos="VERB" lemma="litast">litast</word>
 
@@ -1375,38 +1375,38 @@ NÃº</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="Ã¾oka">Ã¾okar</word>
+<word pos="VERB" lemma="şoka">şokar</word>
 
-<word pos="NOUN" lemma="kÃ¡puhÃ¶ttur">kÃ¡puhettinum</word>
+<word pos="NOUN" lemma="kápuhöttur">kápuhettinum</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">ÃaÃ°</word>
+<word pos="PRON" lemma="şağ">Şağ</word>
 
-<word pos="VERB" lemma="Ã¦tla">Ã¦tla</word>
+<word pos="VERB" lemma="ætla">ætla</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
-<word pos="AUX" lemma="verÃ°a">verÃ°i</word>
+<word pos="AUX" lemma="verğa">verği</word>
 
 <word pos="NOUN" lemma="vargur">vargsins</word>
 
-<word pos="NOUN" lemma="dÃ¦mi">dÃ¦mi</word>
+<word pos="NOUN" lemma="dæmi">dæmi</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PRON" lemma="hann">
-Ãeir</word>
+Şeir</word>
 
 <word pos="VERB" lemma="finnast">finnast</word>
 
@@ -1414,11 +1414,11 @@ NÃº</word>
 
 <word pos="ADV" lemma="fyrr">fyrr</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
 <word pos="SCONJ" lemma="en">en</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
 <word pos="AUX" lemma="hafa">hafa</word>
 
@@ -1426,11 +1426,11 @@ NÃº</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
 <word pos="VERB" lemma="koma">koma</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
 <word pos="NOUN" lemma="hali">halanum</word>
 
@@ -1441,41 +1441,41 @@ Svo</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="PRON" lemma="Ã©g">mÃ©r</word>
+<word pos="PRON" lemma="ég">mér</word>
 
 <word pos="ADV" lemma="og">og</word>
 
-<word pos="VERB" lemma="ganga">gengiÃ°</word>
+<word pos="VERB" lemma="ganga">gengiğ</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
 <word pos="DET" lemma="margur">marga</word>
 
-<word pos="ADJ" lemma="gÃ¶fugur">gÃ¶fga</word>
+<word pos="ADJ" lemma="göfugur">göfga</word>
 
-<word pos="NOUN" lemma="maÃ°ur">menn</word>
+<word pos="NOUN" lemma="mağur">menn</word>
 
-<word pos="ADV" lemma="hÃ©r">hÃ©r</word>
+<word pos="ADV" lemma="hér">hér</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ¶riÃ°</word>
+<word pos="VERB" lemma="kjósa">kjöriğ</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
-<word pos="PRON" lemma="minn">mÃ­nu</word>
+<word pos="PRON" lemma="minn">mínu</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡li</word>
+<word pos="NOUN" lemma="mál">máli</word>
 
 <word pos="CCONJ" lemma="en">en</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="DET" lemma="sÃ¡">sÃ¡</word>
+<word pos="DET" lemma="sá">sá</word>
 
 <word pos="DET" lemma="einn">einn</word>
 
@@ -1483,23 +1483,23 @@ Svo</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="DET" lemma="allur">Ã¶llum</word>
+<word pos="DET" lemma="allur">öllum</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
 <word pos="ADJ" lemma="kunnigur">kunnigt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
-<word pos="VERB" lemma="hirÃ°a">hirÃ°ir</word>
+<word pos="VERB" lemma="hirğa">hirğir</word>
 
-<word pos="PRON" lemma="hver">hvaÃ°</word>
+<word pos="PRON" lemma="hver">hvağ</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="NOUN" lemma="fÃ©">fjÃ¡rins</word>
+<word pos="NOUN" lemma="fé">fjárins</word>
 
 <word pos="VERB" lemma="vinna">vinnur</word>
 
@@ -1511,14 +1511,14 @@ Svo</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="VERB" lemma="verÃ°a">
-VerÃ°ur</word>
+<word pos="VERB" lemma="verğa">
+Verğur</word>
 
-<word pos="ADV" lemma="nÃº">nÃº</word>
+<word pos="ADV" lemma="nú">nú</word>
 
-<word pos="PRON" lemma="annaÃ°hvort">annaÃ°hvort</word>
+<word pos="PRON" lemma="annağhvort">annağhvort</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
 <word pos="VERB" lemma="ganga">ganga</word>
 
@@ -1526,39 +1526,39 @@ VerÃ°ur</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="PRON" lemma="hann">Ã¾Ã¡</word>
+<word pos="PRON" lemma="hann">şá</word>
 
 <word pos="ADP" lemma="til">til</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="ADV" lemma="Ã¡Ã°ur">Ã¡Ã°ur</word>
+<word pos="ADV" lemma="áğur">áğur</word>
 
 <word pos="AUX" lemma="vera">eru</word>
 
-<word pos="ADP" lemma="frÃ¡">frÃ¡</word>
+<word pos="ADP" lemma="frá">frá</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kosnir</word>
+<word pos="VERB" lemma="kjósa">kosnir</word>
 
-<word pos="CCONJ" lemma="eÃ°a">eÃ°a</word>
+<word pos="CCONJ" lemma="eğa">eğa</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="ADP" lemma="til">til</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="DET" lemma="allur">Ã¶llum</word>
+<word pos="DET" lemma="allur">öllum</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
 <word pos="ADJ" lemma="kunnigur">kunnigt</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
@@ -1570,22 +1570,22 @@ VerÃ°ur</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
-<word pos="ADV" lemma="nÃº">
-NÃº</word>
+<word pos="ADV" lemma="nú">
+Nú</word>
 
-<word pos="VERB" lemma="Ã¦tla">Ã¦tla</word>
+<word pos="VERB" lemma="ætla">ætla</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="ADV" lemma="Ã¾Ã³">Ã¾Ã³</word>
+<word pos="ADV" lemma="şó">şó</word>
 
-<word pos="NOUN" lemma="rÃ¡Ã°">rÃ¡Ã°</word>
+<word pos="NOUN" lemma="ráğ">ráğ</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
-<word pos="VERB" lemma="kjÃ³sa">kjÃ³sa</word>
+<word pos="VERB" lemma="kjósa">kjósa</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾ig</word>
+<word pos="PRON" lemma="şú">şig</word>
 
 <word pos="ADP" lemma="til">til</word>
 
@@ -1602,42 +1602,42 @@ Hann</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">ÃaÃ°</word>
+<word pos="PRON" lemma="şağ">Şağ</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="ADV" lemma="mjÃ¶g">mjÃ¶g</word>
+<word pos="ADV" lemma="mjög">mjög</word>
 
 <word pos="ADV" lemma="oft">oft</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="ADV" lemma="Ã¾angaÃ°">Ã¾angaÃ°</word>
+<word pos="ADV" lemma="şangağ">şangağ</word>
 
 <word pos="VERB" lemma="vilja">vill</word>
 
-<word pos="NOUN" lemma="virÃ°ing">virÃ°ingin</word>
+<word pos="NOUN" lemma="virğing">virğingin</word>
 
-<word pos="SCONJ" lemma="Ã¾Ã³tt">Ã¾Ã³tt</word>
+<word pos="SCONJ" lemma="şótt">şótt</word>
 
-<word pos="PRON" lemma="annar">aÃ°rir</word>
+<word pos="PRON" lemma="annar">ağrir</word>
 
 <word pos="VERB" lemma="unna">unni</word>
 
-<word pos="PRON" lemma="Ã©g">oss</word>
+<word pos="PRON" lemma="ég">oss</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="VERB" lemma="ganga">
-GÃ¶ngum</word>
+Göngum</word>
 
 <word pos="PROPN" lemma="gellir">Gellir</word>
 
@@ -1645,16 +1645,16 @@ GÃ¶ngum</word>
 
 <word pos="VERB" lemma="hyggja">hyggjum</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
-<word pos="NOUN" lemma="mÃ¡l">mÃ¡linu</word>
+<word pos="NOUN" lemma="mál">málinu</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
 <word pos="PRON" lemma="hann">
-Ãeir</word>
+Şeir</word>
 
 <word pos="VERB" lemma="gera">gera</word>
 
@@ -1665,17 +1665,17 @@ GÃ¶ngum</word>
 <word pos="PROPN" lemma="egill">
 Egill</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="PRON" lemma="hver">HvaÃ°</word>
+<word pos="PRON" lemma="hver">Hvağ</word>
 
 <word pos="AUX" lemma="skulu">skulum</word>
 
-<word pos="PRON" lemma="Ã©g">viÃ°</word>
+<word pos="PRON" lemma="ég">viğ</word>
 
 <word pos="VERB" lemma="gera">gera</word>
 
@@ -1684,39 +1684,39 @@ Egill</word>
 <word pos="CCONJ" lemma="en">
 En</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾aÃ°</word>
+<word pos="PRON" lemma="şağ">şağ</word>
 
-<word pos="VERB" lemma="rÃ¡Ã°a">rÃ¦Ã°</word>
+<word pos="VERB" lemma="ráğa">ræğ</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
-<word pos="PRON" lemma="Ã©g">viÃ°</word>
+<word pos="PRON" lemma="ég">viğ</word>
 
 <word pos="VERB" lemma="gera">gerum</word>
 
-<word pos="DET" lemma="lÃ­till">lÃ­tiÃ°</word>
+<word pos="DET" lemma="lítill">lítiğ</word>
 
-<word pos="PRON" lemma="Ã¾aÃ°">Ã¾vÃ­</word>
+<word pos="PRON" lemma="şağ">şví</word>
 
-<word pos="SCONJ" lemma="aÃ°">aÃ°</word>
+<word pos="SCONJ" lemma="ağ">ağ</word>
 
 <word pos="DET" lemma="enginn">ekki</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
-<word pos="VERB" lemma="tjÃ¡">tjÃ¡</word>
+<word pos="VERB" lemma="tjá">tjá</word>
 
 <word pos="SCONJ" lemma="ef">ef</word>
 
-<word pos="PRON" lemma="Ã©g">viÃ°</word>
+<word pos="PRON" lemma="ég">viğ</word>
 
 <word pos="VERB" lemma="gera">gerum</word>
 
 <word pos="ADV" lemma="ekki">eigi</word>
 
-<word pos="ADJ" lemma="allmikiÃ°">allmikiÃ°</word>
+<word pos="ADJ" lemma="allmikiğ">allmikiğ</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -1725,13 +1725,13 @@ En</word>
 <word pos="PUNCT" lemma=""">
 "</word>
 
-<word pos="ADV" lemma="Ã¾Ã³">ÃÃ³</word>
+<word pos="ADV" lemma="şó">Şó</word>
 
 <word pos="AUX" lemma="munu">mun</word>
 
 <word pos="NOUN" lemma="fjandskapur">fjandskapur</word>
 
-<word pos="ADP" lemma="Ã¡">Ã¡</word>
+<word pos="ADP" lemma="á">á</word>
 
 <word pos="VERB" lemma="liggja">liggja</word>
 
@@ -1749,11 +1749,11 @@ En</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="CCONJ" lemma="eÃ°a">eÃ°a</word>
+<word pos="CCONJ" lemma="eğa">eğa</word>
 
 <word pos="ADV" lemma="hve">hve</word>
 
-<word pos="DET" lemma="mikill">mikiÃ°</word>
+<word pos="DET" lemma="mikill">mikiğ</word>
 
 <word pos="AUX" lemma="skulu">skal</word>
 
@@ -1774,7 +1774,7 @@ Egill</word>
 
 <word pos="VERB" lemma="gera">Gerum</word>
 
-<word pos="NUM" lemma="Ã¾rettÃ¡n">Ã¾rettÃ¡n</word>
+<word pos="NUM" lemma="şrettán">şrettán</word>
 
 <word pos="NOUN" lemma="eyrir">aura</word>
 
@@ -1782,7 +1782,7 @@ Egill</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="VERB" lemma="kveÃ°a">kvaÃ°</word>
+<word pos="VERB" lemma="kveğa">kvağ</word>
 
 <word pos="PRON" lemma="hann">hann</word>
 
@@ -1801,17 +1801,17 @@ Gellir</word>
 
 <word pos="AUX" lemma="vera">er</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
-<word pos="ADJ" lemma="fÃºs">fÃºs</word>
+<word pos="ADJ" lemma="fús">fús</word>
 
-<word pos="PART" lemma="aÃ°">aÃ°</word>
+<word pos="PART" lemma="ağ">ağ</word>
 
 <word pos="VERB" lemma="segja">segja</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="NOUN" lemma="sÃ¦tt">sÃ¦ttina</word>
+<word pos="NOUN" lemma="sætt">sættina</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -1832,21 +1832,21 @@ Egill</word>
 
 <word pos="AUX" lemma="vilja">vilt</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="VERB" lemma="segja">segja</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="NOUN" lemma="gerÃ°">gerÃ°ina</word>
+<word pos="NOUN" lemma="gerğ">gerğina</word>
 
-<word pos="CCONJ" lemma="eÃ°a">eÃ°a</word>
+<word pos="CCONJ" lemma="eğa">eğa</word>
 
 <word pos="VERB" lemma="sitja">sitja</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="NOUN" lemma="svar">svÃ¶rum</word>
+<word pos="NOUN" lemma="svar">svörum</word>
 
 <word pos="PUNCT" lemma="?">?</word>
 
@@ -1861,7 +1861,7 @@ Egill</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="VERB" lemma="kveÃ°a">kvaÃ°</word>
+<word pos="VERB" lemma="kveğa">kvağ</word>
 
 <word pos="PRON" lemma="hann">hann</word>
 
@@ -1875,23 +1875,23 @@ Egill</word>
 
 <word pos="AUX" lemma="vilja">vil</word>
 
-<word pos="PRON" lemma="Ã©g">eg</word>
+<word pos="PRON" lemma="ég">eg</word>
 
 <word pos="VERB" lemma="segja">segja</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
-<word pos="NOUN" lemma="sÃ¦tt">sÃ¦ttina</word>
+<word pos="NOUN" lemma="sætt">sættina</word>
 
 <word pos="CCONJ" lemma="en">en</word>
 
-<word pos="PRON" lemma="Ã¾Ãº">Ã¾Ãº</word>
+<word pos="PRON" lemma="şú">şú</word>
 
 <word pos="VERB" lemma="sitja">sit</word>
 
 <word pos="ADP" lemma="fyrir">fyrir</word>
 
-<word pos="NOUN" lemma="svar">svÃ¶runum</word>
+<word pos="NOUN" lemma="svar">svörunum</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
@@ -1900,49 +1900,49 @@ Egill</word>
 <word pos="VERB" lemma="ganga">
 Ganga</word>
 
-<word pos="ADP" lemma="aÃ°">aÃ°</word>
+<word pos="ADP" lemma="ağ">ağ</word>
 
 <word pos="ADP" lemma="fram">fram</word>
 
-<word pos="ADV" lemma="Ã¾ar">Ã¾ar</word>
+<word pos="ADV" lemma="şar">şar</word>
 
 <word pos="SCONJ" lemma="er">er</word>
 
-<word pos="PRON" lemma="hann">Ã¾eir</word>
+<word pos="PRON" lemma="hann">şeir</word>
 
-<word pos="VERB" lemma="sitja">sÃ¡tu</word>
+<word pos="VERB" lemma="sitja">sátu</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PROPN" lemma="hermundur">
 Hermundur</word>
 
-<word pos="VERB" lemma="standa">stÃ³Ã°</word>
+<word pos="VERB" lemma="standa">stóğ</word>
 
 <word pos="ADP" lemma="upp">upp</word>
 
 <word pos="CCONJ" lemma="og">og</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 
 <word pos="PUNCT" lemma=":">:</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="VERB" lemma="hlÃ½Ã°a">HlÃ½Ã°um</word>
+<word pos="VERB" lemma="hlığa">Hlığum</word>
 
 <word pos="ADP" lemma="til">til</word>
 
-<word pos="NOUN" lemma="Ã³sÃ³mi">Ã³sÃ³mans</word>
+<word pos="NOUN" lemma="ósómi">ósómans</word>
 
 <word pos="PUNCT" lemma=".">.</word>
 
 <word pos="PUNCT" lemma=""">"</word>
 
-<word pos="ADV" lemma="Ã¾Ã¡">
-ÃÃ¡</word>
+<word pos="ADV" lemma="şá">
+Şá</word>
 
-<word pos="VERB" lemma="mÃ¦la">mÃ¦lti</word>
+<word pos="VERB" lemma="mæla">mælti</word>
 ^([^\t]+)\t([^\t]+)\t([^\r\n]+)\R
 <word pos="\3" lemma="\2">\1</word>\r\n
 
